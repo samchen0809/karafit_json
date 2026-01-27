@@ -1,0 +1,25 @@
+{
+  "app_info": {
+    "app_name": "卡拉動一動",
+    "min_version": "1.0",
+    "last_updated": "2025-01-27"
+  },
+  "videos": [
+    {
+      "id": "001",
+      "title": "動一動",
+      "duration": "3:00",
+      "youtube_id": "IcW0UlLAEho",
+      "thumbnail": "https://img.youtube.com/vi/IcW0UlLAEho/mqdefault.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=IcW0UlLAEho"
+    },
+    {
+      "id": "002",
+      "title": "跳一跳",
+      "duration": "3:00",
+      "youtube_id": "gt7uL4GZxDI",
+      "thumbnail": "https://img.youtube.com/vi/gt7uL4GZxDI/mqdefault.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=gt7uL4GZxDI"
+    }
+  ]
+}
