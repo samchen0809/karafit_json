@@ -2,7 +2,7 @@
   "app_info": {
     "app_name": "卡拉動一動",
     "min_version": "1.0",
-    "last_updated": "2025-01-27"
+    "last_updated": "2025-01-28"
   },
   "videos": [
     {
@@ -20,7 +20,7 @@
       "youtube_id": "gt7uL4GZxDI",
       "thumbnail": "https://img.youtube.com/vi/gt7uL4GZxDI/mqdefault.jpg",
       "youtube_url": "https://www.youtube.com/watch?v=gt7uL4GZxDI"
-    }
+    },
 	{
       "id": "003",
       "title": "沉浸式互動",
@@ -28,7 +28,7 @@
       "youtube_id": "rqoz5ZNlT2o",
       "thumbnail": "https://img.youtube.com/vi/rqoz5ZNlT2o/mqdefault.jpg",
       "youtube_url": "https://www.youtube.com/watch?v=rqoz5ZNlT2o"
-    }
+    },
 	{
       "id": "004",
       "title": "跑跳瘦全身",
