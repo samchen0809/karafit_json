@@ -1,41 +1,17 @@
 {
   "app_info": {
     "app_name": "卡拉動一動",
-    "min_version": "1.0",
-    "last_updated": "2025-01-28"
+    "min_version": "1.1",
+    "last_updated": "2025-02-10"
   },
   "videos": [
     {
       "id": "001",
       "title": "動一動",
       "duration": "3:00",
-      "youtube_id": "IcW0UlLAEho",
-      "thumbnail": "https://img.youtube.com/vi/IcW0UlLAEho/mqdefault.jpg",
-      "youtube_url": "https://www.youtube.com/watch?v=IcW0UlLAEho"
-    },
-    {
-      "id": "002",
-      "title": "跳一跳",
-      "duration": "3:00",
-      "youtube_id": "gt7uL4GZxDI",
-      "thumbnail": "https://img.youtube.com/vi/gt7uL4GZxDI/mqdefault.jpg",
-      "youtube_url": "https://www.youtube.com/watch?v=gt7uL4GZxDI"
-    },
-	{
-      "id": "003",
-      "title": "沉浸式互動",
-      "duration": "3:00",
-      "youtube_id": "rqoz5ZNlT2o",
-      "thumbnail": "https://img.youtube.com/vi/rqoz5ZNlT2o/mqdefault.jpg",
-      "youtube_url": "https://www.youtube.com/watch?v=rqoz5ZNlT2o"
-    },
-	{
-      "id": "004",
-      "title": "跑跳瘦全身",
-      "duration": "3:00",
-      "youtube_id": "7Q3U4RnyTQ8",
-      "thumbnail": "https://img.youtube.com/vi/7Q3U4RnyTQ8/mqdefault.jpg",
-      "youtube_url": "https://www.youtube.com/watch?v=7Q3U4RnyTQ8"
+      "youtube_id": "J4SVrZ5GFYk",
+      "thumbnail": "https://img.youtube.com/vi/J4SVrZ5GFYk/mqdefault.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=J4SVrZ5GFYk"
     }
-  ]
+      ]
 }
